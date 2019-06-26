@@ -1,5 +1,5 @@
 #coding:utf-8
-#fuck
+#change in 19-06-26 
 #1. import pylint, then normal outputs(and set conf).
 import pylint.lint
 
